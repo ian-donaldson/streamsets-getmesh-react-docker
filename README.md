@@ -1,0 +1,2 @@
+# streamsets-getmesh-react-docker
+This repository contains a docker file to spin up an open source graph DB headless CMS (Getmesh or Gentics Mesh) supported by an open source middleware (Streamsets) for the business and integration logic and powering a React Web App (eventually PWA).  All of these items are required in the same docker container in order to reduce network traffic between these elements.
